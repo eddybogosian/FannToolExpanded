@@ -1,4 +1,4 @@
 # FannToolExpanded
-This is an independent branch of FannTool not associated or endorsed by the original creator
+This is an independent branch of FannTool not associated or endorsed by the original creator.
 
-FannTool is a GUI that allows for quick and easy creation, training, and testing of FANN Neural Networks.
+FannToolExpanded is a GUI that allows for quick and easy creation, training, and testing of FANN Neural Networks.
