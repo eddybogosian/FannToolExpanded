@@ -9,3 +9,5 @@ FLTK 1.3 : http://www.fltk.org/software.php?VERSION=1.3.0
 
 FANN 2.2 or above
 FANN 2.2 : https://github.com/libfann/fann
+
+CodeBlocks Project is included.
