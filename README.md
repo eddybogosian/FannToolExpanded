@@ -11,4 +11,4 @@ FANN 2.2 or above
 FANN 2.2 : https://github.com/libfann/fann
 
 CodeBlocks Project is included. Remember to set FLTK and FANN libraries in the compiler's "Search directories".
-You can do this by creating a folder named "CBLibraries", adding the FANN's "include" folder, and FLTK's "FL", "lib", and "images folder". Then in CodeBlocks, click on settings -> compiler -> search directory -> Compiler tab -> Add all folders -> Linker tab once more add the same folders -> ok.
+You can do this by creating a folder named "CBLibraries", adding the FANN's "source" folder, and FLTK's "FL", "lib", and "images folder". Then in CodeBlocks, click on settings -> compiler -> search directory -> Compiler tab -> Add all folders -> Linker tab once more add the same folders -> ok.
